@@ -1,6 +1,6 @@
 # opencv-layer
 
-> AWS Lambda OpenCV layer for Python 3.7 (opencv-3.4.7)
+> AWS Lambda OpenCV layer for Python 4.1 (opencv-4.1.1)
 
 ## Requirements
 

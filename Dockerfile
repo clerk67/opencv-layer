@@ -1,6 +1,6 @@
 FROM lambci/lambda:build-python3.7
 
-ENV OPENCV_VERSION 3.4.7
+ENV OPENCV_VERSION 4.1.1
 
 RUN curl -fsSLO https://github.com/opencv/opencv/archive/$OPENCV_VERSION.tar.gz \
   && tar -zxf $OPENCV_VERSION.tar.gz \
